@@ -1,0 +1,19 @@
+{
+  "name": "ui-library",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "author": "Barundeep Singh Dhanjal <barundeepsingh7@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/ui-library.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/ui-library.test.js"
+  }
+}

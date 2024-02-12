@@ -1,0 +1,13 @@
+{
+  "name": "my-ui-library",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "ui-library": "^1.0.0"
+  },
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+}
